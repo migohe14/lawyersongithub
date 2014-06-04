@@ -223,6 +223,15 @@ Policy Director at [CREW](http://www.citizensforethics.org/)
 
 Member of the Georgia Bar.
 
+## [Preston Byrne](https://github.com/prestonjbyrne)
+
+Solicitor, England and Wales (Admitted 2011). Graduate of the University of St. Andrews. Fellow of the Adam Smith Institue and Associate at Norton Rose Fulbright.
+
+[@prestonjbyrne](https://twitter.com/prestonjbyrne) on Twitter.
+
+[Blog](http://prestonbyrne.com)
+
+
 # Lawyers *in* GitHub
 
 ## [Benjamin J. Balter](https://github.com/benbalter/)
@@ -239,13 +248,6 @@ Member of the Georgia Bar.
 
 [Personal Website](http://www.spyfoos.com)
 
-## [Preston Byrne](https://github.com/prestonjbyrne)
-
-Solicitor of the Senior Courts in England and Wales (Admitted 2012). Graduate of the University of St. Andrews. Fellow of the Adam Smith Institue and Associate at Norton Rose Fulbright.
-
-[@prestonjbyrne](https://twitter.com/prestonjbyrne) on Twitter.
-
-[Blog](http://prestonbyrne.com)
 
 ## Law Students
 
